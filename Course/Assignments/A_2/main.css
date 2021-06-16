@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #181818;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+code {
+    font-family: monospace;
+    color:#90232c;
+}
+.different-color{
+    color: #25ae53;
+}
+
+li + li {
+    color: white;
+    background-color: black;
+}
+
+ol li {
+    color: white;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
